@@ -1,6 +1,8 @@
 sprites.onOverlap(SpriteKind.Player, SpriteKind.Food, function (sprite, otherSprite) {
-	
+    Donut.x = randint(0, scene.screenWidth())
+    Donut.y = randint(0, scene.screenHeight())
 })
+let Donut: Sprite = null
 scene.setBackgroundImage(img`
     3333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333
     3333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333
@@ -156,7 +158,7 @@ let Monstruito = sprites.create(img`
     ..........cccccccccc...........
     `, SpriteKind.Player)
 controller.moveSprite(Monstruito)
-let Donut = sprites.create(img`
+Donut = sprites.create(img`
     ..............bbbbbbb...........
     ...........bb66663333baa........
     .........bb3367776333663aa......
