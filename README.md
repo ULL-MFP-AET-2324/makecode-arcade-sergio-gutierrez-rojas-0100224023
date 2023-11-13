@@ -5,6 +5,7 @@
   * [Organización ULL-MFP-AET-2324](https://github.com/ULL-MFP-AET-2324-alu0100224023)
   * [Classroom ULL-MFP-AET-2324](https://classroom.github.com/classrooms/149104090-ull-mfp-aet-2324-alu0100224023)
   * [Asignación](https://classroom.github.com/classrooms/149104090-ull-mfp-aet-2324-alu0100224023/assignments/practica-makecode)
+  * [Roster](https://classroom.github.com/classrooms/149104090-ull-mfp-aet-2324-alu0100224023/roster)
 
 
 
